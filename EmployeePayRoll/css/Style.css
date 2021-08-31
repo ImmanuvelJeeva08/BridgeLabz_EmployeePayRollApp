@@ -54,7 +54,7 @@ body {
 .form {
     width: 65%;
     padding: 44px 60px;
-    background: blue 0% 0% no-repeat padding-box;
+    background:yellow 0% 0% no-repeat padding-box;
     box-shadow: 0px 3px 6px grey;
     border: 1px solid #f5f5f5;
     border-radius: 8px;
