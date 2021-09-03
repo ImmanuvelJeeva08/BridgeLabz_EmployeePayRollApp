@@ -61,7 +61,7 @@ class PersonInfo {
 
     set start_date ( start_date ) {
         this._start_date = start_date;
-    }
+    } 
 
     toString() {
         const options = { year: 'numeric', month: 'long', day: 'numeric' };
